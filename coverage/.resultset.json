@@ -1,14 +1,14 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/doan/Desktop/school_specs/config/environment.rb": [
+      "C:/Users/Cecil/Desktop/dpl_fall19/Week5/Day4/school_specs_fall19/config/environment.rb": [
         null,
         1,
         null,
         null,
         1
       ],
-      "/Users/doan/Desktop/school_specs/config/application.rb": [
+      "C:/Users/Cecil/Desktop/dpl_fall19/Week5/Day4/school_specs_fall19/config/application.rb": [
         1,
         null,
         1,
@@ -45,13 +45,13 @@
         null,
         null
       ],
-      "/Users/doan/Desktop/school_specs/config/boot.rb": [
+      "C:/Users/Cecil/Desktop/dpl_fall19/Week5/Day4/school_specs_fall19/config/boot.rb": [
         1,
         null,
         1,
         1
       ],
-      "/Users/doan/Desktop/school_specs/config/environments/test.rb": [
+      "C:/Users/Cecil/Desktop/dpl_fall19/Week5/Day4/school_specs_fall19/config/environments/test.rb": [
         null,
         null,
         null,
@@ -101,7 +101,7 @@
         null,
         null
       ],
-      "/Users/doan/Desktop/school_specs/config/initializers/application_controller_renderer.rb": [
+      "C:/Users/Cecil/Desktop/dpl_fall19/Week5/Day4/school_specs_fall19/config/initializers/application_controller_renderer.rb": [
         null,
         null,
         null,
@@ -111,7 +111,7 @@
         null,
         null
       ],
-      "/Users/doan/Desktop/school_specs/config/initializers/assets.rb": [
+      "C:/Users/Cecil/Desktop/dpl_fall19/Week5/Day4/school_specs_fall19/config/initializers/assets.rb": [
         null,
         null,
         null,
@@ -127,7 +127,7 @@
         null,
         null
       ],
-      "/Users/doan/Desktop/school_specs/config/initializers/backtrace_silencers.rb": [
+      "C:/Users/Cecil/Desktop/dpl_fall19/Week5/Day4/school_specs_fall19/config/initializers/backtrace_silencers.rb": [
         null,
         null,
         null,
@@ -136,7 +136,7 @@
         null,
         null
       ],
-      "/Users/doan/Desktop/school_specs/config/initializers/content_security_policy.rb": [
+      "C:/Users/Cecil/Desktop/dpl_fall19/Week5/Day4/school_specs_fall19/config/initializers/content_security_policy.rb": [
         null,
         null,
         null,
@@ -168,20 +168,20 @@
         null,
         null
       ],
-      "/Users/doan/Desktop/school_specs/config/initializers/cookies_serializer.rb": [
+      "C:/Users/Cecil/Desktop/dpl_fall19/Week5/Day4/school_specs_fall19/config/initializers/cookies_serializer.rb": [
         null,
         null,
         null,
         null,
         1
       ],
-      "/Users/doan/Desktop/school_specs/config/initializers/filter_parameter_logging.rb": [
+      "C:/Users/Cecil/Desktop/dpl_fall19/Week5/Day4/school_specs_fall19/config/initializers/filter_parameter_logging.rb": [
         null,
         null,
         null,
         1
       ],
-      "/Users/doan/Desktop/school_specs/config/initializers/inflections.rb": [
+      "C:/Users/Cecil/Desktop/dpl_fall19/Week5/Day4/school_specs_fall19/config/initializers/inflections.rb": [
         null,
         null,
         null,
@@ -199,13 +199,13 @@
         null,
         null
       ],
-      "/Users/doan/Desktop/school_specs/config/initializers/mime_types.rb": [
+      "C:/Users/Cecil/Desktop/dpl_fall19/Week5/Day4/school_specs_fall19/config/initializers/mime_types.rb": [
         null,
         null,
         null,
         null
       ],
-      "/Users/doan/Desktop/school_specs/config/initializers/wrap_parameters.rb": [
+      "C:/Users/Cecil/Desktop/dpl_fall19/Week5/Day4/school_specs_fall19/config/initializers/wrap_parameters.rb": [
         null,
         null,
         null,
@@ -221,7 +221,7 @@
         null,
         null
       ],
-      "/Users/doan/Desktop/school_specs/spec/factories/schools.rb": [
+      "C:/Users/Cecil/Desktop/dpl_fall19/Week5/Day4/school_specs_fall19/spec/factories/schools.rb": [
         1,
         1,
         1,
@@ -232,7 +232,7 @@
         null,
         null
       ],
-      "/Users/doan/Desktop/school_specs/spec/factories/students.rb": [
+      "C:/Users/Cecil/Desktop/dpl_fall19/Week5/Day4/school_specs_fall19/spec/factories/students.rb": [
         1,
         1,
         1,
@@ -242,7 +242,7 @@
         null,
         null
       ],
-      "/Users/doan/Desktop/school_specs/config/routes.rb": [
+      "C:/Users/Cecil/Desktop/dpl_fall19/Week5/Day4/school_specs_fall19/config/routes.rb": [
         1,
         1,
         null,
@@ -251,51 +251,16 @@
         null,
         null
       ],
-      "/Users/doan/Desktop/school_specs/app/helpers/application_helper.rb": [
+      "C:/Users/Cecil/Desktop/dpl_fall19/Week5/Day4/school_specs_fall19/app/helpers/application_helper.rb": [
         1,
         null
       ],
-      "/Users/doan/Desktop/school_specs/app/models/application_record.rb": [
+      "C:/Users/Cecil/Desktop/dpl_fall19/Week5/Day4/school_specs_fall19/app/models/application_record.rb": [
         1,
         1,
         null
       ],
-      "/Users/doan/Desktop/school_specs/app/controllers/schools_controller.rb": [
-        1,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        1,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
-      "/Users/doan/Desktop/school_specs/app/controllers/application_controller.rb": [
-        1,
-        null
-      ],
-      "/Users/doan/Desktop/school_specs/spec/controllers/students_controller_spec.rb": [
-        1,
-        null,
-        1,
-        null,
-        null,
-        null,
-        null
-      ],
-      "/Users/doan/Desktop/school_specs/app/controllers/students_controller.rb": [
+      "C:/Users/Cecil/Desktop/dpl_fall19/Week5/Day4/school_specs_fall19/app/controllers/students_controller.rb": [
         1,
         1,
         1,
@@ -361,109 +326,11 @@
         null,
         null
       ],
-      "/Users/doan/Desktop/school_specs/spec/models/school_spec.rb": [
-        1,
-        null,
-        1,
-        1,
-        1,
-        1,
-        1,
-        0,
-        null,
-        null,
-        1,
-        1,
-        1,
-        0,
-        null,
-        null,
-        1,
-        1,
-        1,
-        0,
-        null,
-        null,
-        1,
-        1,
-        1,
-        0,
-        null,
-        null,
-        1,
-        1,
-        1,
-        0,
-        null,
-        null,
-        1,
-        1,
-        1,
-        0,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        1,
-        2,
-        2,
-        2,
-        2,
-        2,
-        2,
-        null,
-        1,
-        1,
-        null,
-        null,
-        null,
-        1,
-        1,
-        null,
-        null,
-        null,
-        null,
-        1,
-        2,
-        2,
-        null,
-        null,
-        1,
-        1,
-        2,
-        2,
-        null,
-        null,
-        1,
-        1,
-        1,
-        null,
-        null,
-        2,
-        null,
-        null
-      ],
-      "/Users/doan/Desktop/school_specs/app/models/school.rb": [
-        1,
-        null,
-        null,
-        null,
-        null
-      ],
-      "/Users/doan/Desktop/school_specs/spec/models/student_spec.rb": [
-        1,
-        null,
-        1,
+      "C:/Users/Cecil/Desktop/dpl_fall19/Week5/Day4/school_specs_fall19/app/controllers/application_controller.rb": [
         1,
         null
       ],
-      "/Users/doan/Desktop/school_specs/app/models/student.rb": [
+      "C:/Users/Cecil/Desktop/dpl_fall19/Week5/Day4/school_specs_fall19/app/models/student.rb": [
         1,
         null,
         1,
@@ -471,66 +338,10 @@
         1,
         null,
         null,
-        1,
-        null
-      ],
-      "/Users/doan/Desktop/school_specs/spec/views/schools/edit.html.erb_spec.rb": [
-        1,
-        null,
-        1,
-        1,
-        null
-      ],
-      "/Users/doan/Desktop/school_specs/spec/views/schools/index.html.erb_spec.rb": [
-        1,
-        null,
-        1,
-        1,
-        null
-      ],
-      "/Users/doan/Desktop/school_specs/spec/views/schools/new.html.erb_spec.rb": [
-        1,
-        null,
-        1,
-        1,
-        null
-      ],
-      "/Users/doan/Desktop/school_specs/spec/views/schools/show.html.erb_spec.rb": [
-        1,
-        null,
-        1,
-        1,
-        null
-      ],
-      "/Users/doan/Desktop/school_specs/spec/views/students/edit.html.erb_spec.rb": [
-        1,
-        null,
-        1,
-        1,
-        null
-      ],
-      "/Users/doan/Desktop/school_specs/spec/views/students/index.html.erb_spec.rb": [
-        1,
-        null,
-        1,
-        1,
-        null
-      ],
-      "/Users/doan/Desktop/school_specs/spec/views/students/new.html.erb_spec.rb": [
-        1,
-        null,
-        1,
-        1,
-        null
-      ],
-      "/Users/doan/Desktop/school_specs/spec/views/students/show.html.erb_spec.rb": [
-        1,
-        null,
-        1,
         1,
         null
       ]
     },
-    "timestamp": 1568312220
+    "timestamp": 1568339349
   }
 }
